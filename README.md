@@ -1,7 +1,11 @@
 # Python_ScientificCalculator
 Scientific Calculator Program
 
-Folder 'dist' cointains a executable of the program
+### Scientific Calculater:
+Program to convert temperature: Celsiu, Kelvin, Fahrenheit
 
-Text Editor: VSC, Pycharm
+### .exec
+The 'dist' folder contains the .exec (executable) of the program
 
+### Text Editor: 
+VSC, Pycharm
