@@ -1,5 +1,4 @@
 # Python_ScientificCalculator
-Scientific Calculator Program
 
 ### Scientific Calculater:
 Program to convert temperature: Celsiu, Kelvin, Fahrenheit
