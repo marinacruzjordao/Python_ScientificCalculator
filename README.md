@@ -1,6 +1,6 @@
 # Python_ScientificCalculator
 
-### Scientific Calculater:
+### Scientific Calculator:
 Program to convert temperature: Celsiu, Kelvin, Fahrenheit
 
 ### .exec
