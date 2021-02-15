@@ -150,49 +150,49 @@ class Calculator:
             
             # cases
             elif self.event == '+':
-                c.sum()
+                self.sum()
             elif self.event=='-':
-                c.sub()
+                self.sub()
             elif self.event == '*':
-                c.mult()
+                self.mult()
             elif self.event=='/':
-                c.div()
+                self.div()
             elif self.event == '%':
-                c.perc()
+                self.perc()
             elif self.event=='10^x':
-                c.expo10()
+                self.expo10()
             elif self.event == 'e^x':
-                c.expxy()
+                self.expxy()
             elif self.event=='x^y':
-                c.expoe()
+                self.expoe()
             elif self.event == 'x^3':
                 c.exp3()
             elif self.event=='x^2':
-                c.exp2()
+                self.exp2()
             elif self.event == 'Log10':
-                c.log10()
+                self.log10()
             elif self.event=='Ln':
-                c.ln_op()
+                self.ln_op()
             elif self.event == 'x!':
-                c.facto()
+                self.facto()
             elif self.event=='Square root 2':
-                c.square_root_two()
+                self.square_root_two()
             elif self.event == 'Square root 3':
-                c.square_root_three()
+                self.square_root_three()
             elif self.event=='x square root y':
-                c.square_xy()
+                self.square_xy()
             elif self.event == 'Sin':
-                c.trig_sin()
+                self.trig_sin()
             elif self.event=='Cos':
-                c.trig_cos()
+                self.trig_cos()
             elif self.event == 'Tan':
-                c.trig_tan()
+                self.trig_tan()
             elif self.event=='Sinh':
-                c.trig_sinh()
+                self.trig_sinh()
             elif self.event == 'Cosh':
-                c.trig_cosh()
+                self.trig_cosh()
             elif self.event=='Tanh':
-                c.trig_tanh()
+                self.trig_tanh()
 
 
 c=Calculator()
